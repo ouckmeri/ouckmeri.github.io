@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ouckmeri.github.io/sitemap.html.gz
+Sitemap: https://ouckmeri.github.io/app/sitemap.html.gz
+Sitemap: https://ouckmeri.github.io/assets/sitemap.html.gz
+Sitemap: https://ouckmeri.github.io/css/sitemap.html.gz
+Sitemap: https://ouckmeri.github.io/includes/sitemap.html.gz
+Sitemap: https://ouckmeri.github.io/item/sitemap.html.gz
+Sitemap: https://ouckmeri.github.io/src/sitemap.html.gz
